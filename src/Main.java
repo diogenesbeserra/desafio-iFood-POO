@@ -2,12 +2,14 @@ import br.com.dio.desafio.dominio.Bootcamp;
 import br.com.dio.desafio.dominio.Curso;
 import br.com.dio.desafio.dominio.Dev;
 import br.com.dio.desafio.dominio.Mentoria;
+import br.com.dio.desafio.view.Menu;
 
 import java.time.LocalDate;
 
 
 public class Main {
     public static void main(String[] args) {
+
         Curso curso1 = new Curso();
 
         curso1.setDescricao("descrição curso java");
@@ -25,12 +27,10 @@ public class Main {
         mentoria.setDescricao("descrição mentoria java");
         mentoria.setTitulo("Mentoria Java");
         mentoria.setData(LocalDate.now());
-
-
-       /* System.out.println(curso1);
+        System.out.println(curso1);
         System.out.println(curso2);
         System.out.println(mentoria);
-*/
+
         Bootcamp bootcamp = new Bootcamp();
 
         bootcamp.setNome("Bootcamp Java Developer");
@@ -64,7 +64,7 @@ public class Main {
         System.out.println("Conteúdos Concluídos" + dev2.getConteudosConcluidos());
         System.out.println("XP: " + dev2.calcularTotalXP());
 
-
+        Menu.inicio(bootcamp);
 
 
     }
