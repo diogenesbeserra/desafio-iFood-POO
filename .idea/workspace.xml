@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d9ff80a-5cbe-4547-a7cc-f3a9a84587c2" name="Changes" comment="final">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
-    </list>
+    <list default="true" id="8d9ff80a-5cbe-4547-a7cc-f3a9a84587c2" name="Changes" comment="refatoração" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665093701251</updated>
       <workItem from="1665093704402" duration="34000" />
-      <workItem from="1665181985378" duration="8167000" />
+      <workItem from="1665181985378" duration="8584000" />
     </task>
     <task id="LOCAL-00001" summary="teste">
       <created>1665094292344</created>
@@ -78,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665189811397</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="refatoração">
+      <created>1665240866656</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665240866656</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +103,7 @@
     <MESSAGE value="teste" />
     <MESSAGE value="Mentoria e Curso" />
     <MESSAGE value="final" />
-    <option name="LAST_COMMIT_MESSAGE" value="final" />
+    <MESSAGE value="refatoração" />
+    <option name="LAST_COMMIT_MESSAGE" value="refatoração" />
   </component>
 </project>
