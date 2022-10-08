@@ -1,4 +1,6 @@
+Versão 2.0 com melhorias
 # desafio-iFood-POO
+
 
 ## Abstração do domínio de Bootcamps com Java
 
@@ -21,6 +23,16 @@ Repositório:
 - Revisão de Collections Java para armazenar os dados de cada classe
   - Dev: possui conteudos inscritos e conteudos concluidos
   - Bootcamp: possui seus conteudos, seus Devs inscritos
+  
+  
+  ### MELHORIAS:
+  
+  No ultimo commit foram adicionadas telas de menu no console e funcionalidades de adicionar e remover novo Dev pelo menu.
+  
+  -Menu inicial com opções de ir para menu Dev ou fechar o sistema.
+  -Menu Dev com opções de listar Devs cadastrados, cadastrar novo Dev, remover um Dev e voltar para menu inicial
+  
+  
 
 
 
